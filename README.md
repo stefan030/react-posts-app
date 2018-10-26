@@ -8,4 +8,4 @@ This is my small single page React app which consists of:
 - Higher Order Components (Using Rainbow component to 'supercharge' About component - Randomize About's component text colour)
 - API call using Axios
 
-![Alt text](/public/img/screenshot.png?raw=true "React Posts App")
+![Alt text](/public/screenshot.png?raw=true "React Posts App")
